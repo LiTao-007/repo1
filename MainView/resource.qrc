@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/device.jpg</file>
+        <file>image/inbound.png</file>
+        <file>image/outbound.png</file>
+        <file>image/user.jpg</file>
+        <file>image/mfrs.jpg</file>
+        <file>image/main.jpg</file>
+    </qresource>
+</RCC>
